@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/11 10:07:47.000.058,=C:\Users\Jessica\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/11/11 10:23:51.000.972,C:\Users\Jessica\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Jessica\Documents\Projetos Delphi\Conversao temperatura\Temp.dfm</Transaction>
+    <Transaction>2021/11/11 10:23:51.000.972,C:\Users\Jessica\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Jessica\Documents\Projetos Delphi\Conversao temperatura\Temp.pas</Transaction>
+    <Transaction>2021/11/11 10:24:18.000.696,C:\Users\Jessica\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Jessica\Documents\Projetos Delphi\Conversao temperatura\temperatura.dproj</Transaction>
+    <Transaction>2021/11/11 21:53:20.266,C:\Users\Jessica\Documents\Projetos Delphi\Conv Temperatura\Unit_temp.dfm=C:\Users\Jessica\Documents\Projetos Delphi\Conversao temperatura\Temp.dfm</Transaction>
+    <Transaction>2021/11/11 21:53:20.266,C:\Users\Jessica\Documents\Projetos Delphi\Conv Temperatura\Unit_temp.pas=C:\Users\Jessica\Documents\Projetos Delphi\Conversao temperatura\Temp.pas</Transaction>
+    <Transaction>2021/11/11 21:53:36.777,C:\Users\Jessica\Documents\Projetos Delphi\Conv Temperatura\ConvTemp.dproj=C:\Users\Jessica\Documents\Projetos Delphi\Conversao temperatura\temperatura.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
