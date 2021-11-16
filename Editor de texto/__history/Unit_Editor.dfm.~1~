@@ -1,0 +1,120 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Align = alClient
+  Caption = 'Form2'
+  ClientHeight = 457
+  ClientWidth = 709
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 709
+    Height = 49
+    TabOrder = 0
+    object BtnNovo: TButton
+      Left = 0
+      Top = 13
+      Width = 75
+      Height = 25
+      Caption = 'NOVO'
+      TabOrder = 0
+      OnClick = BtnNovoClick
+    end
+    object BtnAbrir: TButton
+      Left = 72
+      Top = 13
+      Width = 75
+      Height = 25
+      Caption = 'ABRIR'
+      TabOrder = 1
+      OnClick = BtnAbrirClick
+    end
+    object BtnSalvar: TButton
+      Left = 144
+      Top = 13
+      Width = 75
+      Height = 25
+      Caption = 'SALVAR'
+      TabOrder = 2
+    end
+    object BtnImprimir: TButton
+      Left = 216
+      Top = 13
+      Width = 75
+      Height = 25
+      Caption = 'IMPRIMIR'
+      TabOrder = 3
+    end
+    object BtnLocalizar: TButton
+      Left = 288
+      Top = 13
+      Width = 75
+      Height = 25
+      Caption = 'LOCALIZAR'
+      TabOrder = 4
+    end
+    object BtnSubstituir: TButton
+      Left = 360
+      Top = 13
+      Width = 75
+      Height = 25
+      Caption = 'SUBSTITUIR'
+      TabOrder = 5
+    end
+    object BtnFormatar: TButton
+      Left = 432
+      Top = 13
+      Width = 105
+      Height = 25
+      Caption = 'FORMATAR FONTE'
+      TabOrder = 6
+      OnClick = BtnFormatarClick
+    end
+  end
+  object Memo1: TMemo
+    Left = 0
+    Top = 48
+    Width = 733
+    Height = 401
+    Align = alCustom
+    TabOrder = 1
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 624
+    Top = 168
+  end
+  object SaveDialog1: TSaveDialog
+    Left = 632
+    Top = 112
+  end
+  object FontDialog1: TFontDialog
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    Left = 624
+    Top = 216
+  end
+  object PrintDialog1: TPrintDialog
+    Left = 616
+    Top = 280
+  end
+  object FindDialog1: TFindDialog
+    Left = 576
+    Top = 336
+  end
+  object ReplaceDialog1: TReplaceDialog
+    Left = 536
+    Top = 264
+  end
+end
